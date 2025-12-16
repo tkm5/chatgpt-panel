@@ -15,7 +15,7 @@ A Chrome extension that provides quick access to ChatGPT from any webpage via a 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/chatgpt-panel.git
+   git clone https://github.com/tkm5/chatgpt-panel.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
