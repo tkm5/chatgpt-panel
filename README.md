@@ -50,7 +50,7 @@ chatgpt-panel/
 ├── config.js            # URL configuration
 ├── rules.json           # Network request rules
 └── icons/
-    └── Icon 512.png        # Extension icon
+    └── gpt icon.png        # Extension icon
 ```
 
 ## Permissions
