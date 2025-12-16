@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ChatGPT Panel</title>
+  <link rel="stylesheet" href="sidepanel.css">
+</head>
+<body>
+  <iframe id="chatgpt-frame" allow="clipboard-write"></iframe>
+
+  <div id="fallback" class="fallback">
+    <div class="fallback-content">
+      <p>Cannot be embedded due to security restrictions.</p>
+      <button id="open-chatgpt" class="btn btn-primary">Open in New Tab</button>
+      <button id="open-chatgpt-window" class="btn btn-secondary">Open in Window</button>
+    </div>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="sidepanel.js"></script>
+</body>
+</html>
